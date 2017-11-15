@@ -10,3 +10,5 @@ def add(a, b):
     d = a + b
     return d
 
+def shout():
+    print("...")
